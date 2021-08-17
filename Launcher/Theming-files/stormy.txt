@@ -1,0 +1,9 @@
+.theme-dark {
+    --header-primary: rgb(200, 200, 255);
+    --background-primary: #1f1f20;
+    --background-secondary: #1a1a1c;
+    --background-secondary-alt: #1e1f20;
+    --background-tertiary: #131314;
+    --background-accent: rgb(200, 200, 255);
+    --background-floating: #111214;
+}
